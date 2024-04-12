@@ -2,8 +2,6 @@
 
 Mattia, 20, Italy!
 
-[![](https://visitcount.itsvg.in/api?id=MattiaDev2&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 > I have been passionate about programming since I was a child and I love being a Front-End Developer.
 
 ## - 🧠 Technologies
