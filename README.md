@@ -1,8 +1,8 @@
 <h1>🙋‍♂️ Hello world!</h1>
 
-Enrique Marquez, 17, Salvador! 👾
+Mattia, 20, Italy!
 
-> Sempre afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades.
+> I have been passionate about programming since I was a child and I love being a Front-End Developer.
 
 ## - 🧠 Technologies
 [![](https://skillicons.dev/icons?i=html)]
