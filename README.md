@@ -10,13 +10,12 @@ Mattia, 20, Italy!
 [![](https://skillicons.dev/icons?i=js)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=c)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=lua)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=nodejs)](https://mattiawebsite.it)
 <br>
-[![](https://skillicons.dev/icons?i=vite)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=react)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=svelte)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=vue)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=solidjs)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=next)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=bootstrap)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=tailwind)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=vscode)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=visualstudio)](https://mattiawebsite.it)
 
 
 ###
