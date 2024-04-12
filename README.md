@@ -30,7 +30,7 @@
 ###
 
 # 📊 GitHub Stats:
-<img alt="my stats" src="https://github.com/MattiaDev2/github-readme-stats"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDev2)](https://github.com/MattiaDev2/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaDev2)](https://github.com/MattiaDev2/github-readme-stats)<br/>
 
 
