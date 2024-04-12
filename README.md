@@ -5,7 +5,7 @@ Mattia, 20, Italy!
 > I have been passionate about programming since I was a child and I love being a Front-End Developer.
 
 ## - 🧠 Technologies
-[](https://skillicons.dev/icons?i=html)
+[!(https://skillicons.dev/icons?i=html)]
 [![](https://skillicons.dev/icons?i=css)]
 [![](https://skillicons.dev/icons?i=js)]
 [![](https://skillicons.dev/icons?i=c)]
