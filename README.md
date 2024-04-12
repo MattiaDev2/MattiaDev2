@@ -5,18 +5,18 @@ Mattia, 20, Italy!
 > I have been passionate about programming since I was a child and I love being a Front-End Developer.
 
 ## - 🧠 Technologies
-[!(https://skillicons.dev/icons?i=html)]
-[![](https://skillicons.dev/icons?i=css)]
-[![](https://skillicons.dev/icons?i=js)]
-[![](https://skillicons.dev/icons?i=c)]
-[![](https://skillicons.dev/icons?i=lua)]
+[![](https://skillicons.dev/icons?i=html)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=css)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=js)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=c)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=lua)](https://mattiawebsite.it)
 <br>
-[![](https://skillicons.dev/icons?i=vite)]
-[![](https://skillicons.dev/icons?i=react)]
-[![](https://skillicons.dev/icons?i=svelte)]
-[![](https://skillicons.dev/icons?i=vue)]
-[![](https://skillicons.dev/icons?i=solidjs)]
-[![](https://skillicons.dev/icons?i=next)]
+[![](https://skillicons.dev/icons?i=vite)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=react)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=svelte)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=vue)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=solidjs)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=next)](https://mattiawebsite.it)
 
 
 ###
