@@ -31,7 +31,7 @@ Mattia, 20, Italy!
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDev2)](https://github.com/MattiaDev2/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaDev2&layout=compact)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaDev2a&layout=compact)<br/>
 
 
 ---
