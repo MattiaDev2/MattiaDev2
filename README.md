@@ -28,6 +28,8 @@ Mattia, 20, Italy!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDev2)](https://github.com/MattiaDev2/github-readme-stats)
 <img href="https://mattiawebsite.it" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaDev2&layout=compact" alt="My Github Stats"><br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MattiaDev2&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 ##
 [![](https://visitcount.itsvg.in/api?id=MattiaDev2&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
