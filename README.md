@@ -10,13 +10,12 @@ Mattia, 20, Italy!
 [![](https://skillicons.dev/icons?i=js)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=c)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=cs)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=lua)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=nodejs)](https://mattiawebsite.it)
 <br>
+[![](https://skillicons.dev/icons?i=vscode)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=bootstrap)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=tailwind)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=vscode)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=visualstudio)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=lua)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=nodejs)](https://mattiawebsite.it)
 
 <a href="https://discord.gg/vFVgKu89kq" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
