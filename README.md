@@ -10,7 +10,7 @@ Mattia, 20, Italy!
 [![](https://skillicons.dev/icons?i=js)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=c)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=cs)](https://mattiawebsite.it)
-[![](https://skillicons.dev/icons?i=sql)](https://mattiawebsite.it)
+[![](https://skillicons.dev/icons?i=mysql)](https://mattiawebsite.it)
 <br>
 [![](https://skillicons.dev/icons?i=vscode)](https://mattiawebsite.it)
 [![](https://skillicons.dev/icons?i=bootstrap)](https://mattiawebsite.it)
