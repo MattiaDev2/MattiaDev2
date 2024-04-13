@@ -22,7 +22,7 @@ Mattia, 20, Italy!
    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </a>
 
-##
+---
 
 ## 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDev2)](https://github.com/MattiaDev2/github-readme-stats)
